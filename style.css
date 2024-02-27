@@ -10,6 +10,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: violet;
 }
 
 .principal{
@@ -38,4 +39,6 @@ input{
     width: 50px;
     height: 30px;
     margin: 30px;
+    background-color: rgb(91, 33, 129);
+    color: white;
 } 
